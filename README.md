@@ -30,13 +30,15 @@ Finally, run the development server:
 python manage.py runserver
 ```
 
-The API endpoints 
+## The API endpoints 
 
-Get the mock list of all questions
+### Get the mock list of all questions
 **127.0.0.1:8000/list/
 
-Upload file to server
+### Upload file to server
 **127.0.0.1:8000/sync/
+
+To run the API in postman select option like below
 
 ![](https://github.com/anuragal/apiserver/blob/master/readme_images/postman_sync.png)
 
