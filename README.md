@@ -33,10 +33,10 @@ python manage.py runserver
 ## The API endpoints 
 
 ### Get the mock list of all questions
-127.0.0.1:8000/list/
+**GET** 127.0.0.1:8000/list/
 
 ### Upload file to server
-127.0.0.1:8000/sync/
+**PUT** 127.0.0.1:8000/sync/
 
 To run the API in postman select option like below
 
