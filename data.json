@@ -1,0 +1,20 @@
+{
+	"Questionnaire": {
+    "Q1": {
+      "name": "Describe your role in Org",
+      "Noofquestions": 5,
+      "questions": [
+        {
+          "number": 1,
+          "title": "What is your role",
+          "attachmentallowed": 1
+        },
+        {
+          "number": 2,
+          "title": "What time you come to office",
+          "attachmentallowed": 0
+        }
+      ]
+    }
+	}
+}
